@@ -1,1 +1,1 @@
-# chat-assistence-for-sqlite-database
+# Chat Assistance for SQlite Database
